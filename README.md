@@ -14,5 +14,9 @@ The user cannot choose occupied seats
 
 Store seats, movies, and prices locally so that the user interface is still filled out when you refresh.
 
-# Live app preview:
+# Live app preview link:
+https://miniproject-movieseat-booking.netlify.app/
+
+# snapshot:
+![image](https://user-images.githubusercontent.com/83078159/204150629-4837f99e-83bd-4bb2-bf8d-8bdc5cd72a3a.png)
 
